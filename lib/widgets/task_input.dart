@@ -56,5 +56,6 @@ class _TaskInputState extends State<TaskInput>{
 
   void _submit(){
     final title = _controller.text.trim();
+    
   }
 }
